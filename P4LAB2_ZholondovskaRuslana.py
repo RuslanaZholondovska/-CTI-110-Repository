@@ -22,7 +22,7 @@ while run:
             print(f"{user_input} x {i} = {user_input * i}")
     print("")
 #4
-    run_again = input("Would you like to run the program again?: ")
+    run_again = input("Would you like to run the program again? ")
     print("")
     if run_again == "no":
         print("Exiting program...")

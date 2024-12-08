@@ -1,3 +1,9 @@
+# Ruslana Zholondovska
+# 11/2/2024
+# P4LAB1A
+# Turtle grapics
+
+
 import turtle          
 win = turtle.Screen()  
 t = turtle.Turtle()
@@ -9,8 +15,8 @@ t = turtle.Turtle()
 #4 triangle
 
 # 1
-t.pensize(4)            # increase pensize (takes integer)
-t.pencolor("red")     # set pencolor (takes string)
+t.pensize(4)           
+t.pencolor("red")    
 t.shape("turtle")
 
 #square
